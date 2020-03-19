@@ -15,3 +15,5 @@ To run the files use the commands below:
 *make*
 
 *enviro*
+
+After the initial *make*, every time the user inputs *enviro*, a new maze will randomly form. 
