@@ -2,7 +2,7 @@
 This program genarates a random maze everytime it is ran. Then Binky (the robot), will solve the maze by folowing the right walls. It may not seem like the most clever method, but it's a fool-proof way to get through.  
 
 # Installation:
-Simply pull from the repo (https://github.com/nomitalama/EEP520-FINAL-PROJECT) which will contain folder for "hw_8b" and it should have all the files needed. 
+Simply pull from the repo (https://github.com/nomitalama/EEP520-FINAL-PROJECT) which will contain folder for "my_project" and it should have all the files needed. 
 
 Run docker using the following command: *docker run -p80:80 -p8765:8765 -v /C/Users/admin/Desktop/final_assignment/520-Assignments/hw_8b:/source -it klavins/enviro:alpha bash*
 
